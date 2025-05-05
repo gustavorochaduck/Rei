@@ -1,5 +1,7 @@
 import back
 
+back.update()
+
 print('Welcome to れい(Zero)')
 print('-=-'*20)
 print('Tools:')
